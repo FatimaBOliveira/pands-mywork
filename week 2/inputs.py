@@ -1,5 +1,5 @@
-# Say my name
-# Learning inputs
+# Inputs
+# How to use inputs
 # Author: Fatima
 
 '''
