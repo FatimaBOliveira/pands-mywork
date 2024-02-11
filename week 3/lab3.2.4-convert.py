@@ -4,14 +4,13 @@
 
 # input amout in dollars: -5.99 (floated amount)
 # amount showed in cents: 599
-import math
 
-number = 5.99
-amount = float(-number)
-absoluteValue = abs(int(number))
+dollar = 5.99
+amount = float(-dollar)
 
 print("Please enter an amount: " + str(amount))
 
-print("The amount in cents is {}.".format(absoluteValue))
+# https://codereview.stackexchange.com/questions/121074/safely-convert-dollars-to-cents
 
-#NOT FINISHED NOT FINISHED NOT FINISHED
+cents = dollar * 100
+print (cents)
