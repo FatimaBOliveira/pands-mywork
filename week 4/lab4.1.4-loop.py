@@ -2,6 +2,8 @@
 # Program that promotes the user to use -1 number
 # Author: Fatima Oliveira
 
+# https://realpython.com/python-while-loop/#nested-while-loops
+
 a = -1
 b = int(input("enter a number: "))
 print(a == b)
