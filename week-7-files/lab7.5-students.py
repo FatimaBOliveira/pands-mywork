@@ -1,5 +1,5 @@
 # Students
-# Program that have save as an option
+# Program that have save and load as options
 # Author: Fatima Oliveira
 
 import json
