@@ -189,50 +189,51 @@ $RECYCLE.BIN/
 
 week-1-setting-up
 
-helloworld.py
-inputs.py
-multiply.py
-funwithstring.py
-messingwithtypes.py
+helloworld2.py
+inputs2.py
+multiply2.py
 
-testBoolean.py
-testFor.py
-testif.py
-testWhile.py
+funwithstring3.py
+messingwithtypes3.py
 
-messingWithDict.py
-messingWithDict2.py
-messingWithLists.py
-primes.py
+testBoolean4.py
+testFor4.py
+testif4.py
+testWhile4.py
 
-felxibleArguments.py
-lambdaFunctions.py
-messingWithFunctions.py
-messingWithModules.py
-readingnumbers.py
-scope.py
+messingWithDict5.py
+messingWithDict25.py
+messingWithLists5.py
+primes5.py
 
-count.txt
-data.txt
-data2.txt
-test-b.txt
-test-d.txt
-employees.csv
-test.csv
-storeData.json
-students.json
-testdict.json
-countEmailDomains.py
-messingWithCsv.py
-messingWithFiles.py
-messingWithJson.py
-messingWithTheOs.py
+flexibleArguments6.py
+lambdaFunctions6.py
+messingWithFunctions6.py
+messingWithModules6.py
+readingnumbers6.py
+scope6.py
 
-messingWithHist.py
-messingWithNumpy.py
-messingWithPie.py
-messingWithPlots.py
-prettier-plot.png
+count7.txt
+data7.txt
+data27.txt
+test-b7.txt
+test-d7.txt
+employees7.csv
+test7.csv
+storeData7.json
+students7.json
+testdict7.json
+countEmailDomains7.py
+messingWithCsv7.py
+messingWithFiles7.py
+messingWithJson7.py
+messingWithTheOs7.py
+
+messingWithHist8.py
+messingWithNumpy8.py
+messingWithPie8.py
+messingWithPlots8.py
+prettier-plot8.png
 
 messingwithexcept.py
 myFunctions.py
